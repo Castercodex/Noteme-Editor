@@ -8,3 +8,7 @@ Save Files
 
 Requirement***
 Install Python
+  
+  
+  OR
+  Run the .exe file directly
